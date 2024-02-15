@@ -35,6 +35,18 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+.services-hero{
+  background-image: url('./img/pixelHero.png');
+  width: 100%;
+  height: 40rem;
+  background-position: center;
+  background-size: cover ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: myFont;
+  display: flex;
+  align-items: center;
+}
 
 
 /* CUSTOM STYLE FOR PROJECT BUTTONS */

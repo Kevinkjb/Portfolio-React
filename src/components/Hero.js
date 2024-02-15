@@ -20,7 +20,7 @@ export const Hero = ()=>{
         <div className=''>
           <img className='w-96 h-96 xxs:w-80 xxs:h-80' src={imgProfile} alt="profile"/>
         </div>
-    </div>
+      </div>
       
     </div>
   )
