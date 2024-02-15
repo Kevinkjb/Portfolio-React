@@ -6,7 +6,7 @@ export const Tools = () =>{
   const customStyle = 'items-center flex justify-center md:h-10 lg:w-32 lg:text-sm md:w-24 h-12 w-32 mx-auto md:text-xs bg-btn-bg-color text-white rounded-md text-sm font-bold '
   const iconStyles = 'text-custom-color text-3xl mr-2'
   return(
-    <div className="h-96">
+    <div className="h-96 mt-24">
       <div className="grid justify-items-center">
         <div className="md:w-48 border-custom-color-two sm:w-32 sm:mx-auto border-2 w-56 rounded-md h-16 flex items-center justify-center font">
           <h3 className="selection:bg-custom-color selection:text-white text-custom-color-two text-2xl tooling uppercase md:text-xl">Tooling</h3>

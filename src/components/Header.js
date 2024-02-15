@@ -5,7 +5,7 @@ export const Header = () =>{
     <>
       <nav className="selection:bg-custom-color selection:text-white flex justify-between items-center bg-transparent h-16">
         <div className="text-white ml-3">
-        <Link to="/" className="font font-bold uppercase text-2xl hover:text-custom-color transition-all duration-300">Kevinjb</Link>
+        <Link to="/" className="font font-black uppercase text-2xl hover:text-custom-color transition-all duration-300">Krb Tech</Link>
         </div>
         <div>
           <ul className="font flex text-white">

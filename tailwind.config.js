@@ -19,6 +19,7 @@ module.exports = {
         '13': '3.25rem',
         '15': '3.75rem',
         '88': '21rem',
+        '96': '23rem',
         '120': '30rem',
         '128': '32rem',
         '144': '36rem',
@@ -29,7 +30,8 @@ module.exports = {
         '208': '52rem',
         '216': '54rem',
         '224': '56rem',
-        'custom': '60rem'
+        'custom': '60rem',
+        'customTwo': '100%'
 
       },
       screens: {
