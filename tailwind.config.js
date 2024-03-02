@@ -31,7 +31,8 @@ module.exports = {
         '216': '54rem',
         '224': '56rem',
         'custom': '60rem',
-        'customTwo': '100%'
+        'customTwo': '100%',
+        'customThree': '100rem'
 
       },
       screens: {

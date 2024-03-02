@@ -10,10 +10,10 @@ export const HomePage = () =>{
     <>
       <Header/>
       <Hero/>
-      <Services/>
+      {/* <Services/>
       <Tools/>
       <Projects/>
-      <Footer/>
+      <Footer/> */}
     </>
   )
 }
