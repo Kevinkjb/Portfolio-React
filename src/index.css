@@ -12,30 +12,27 @@
   font-family: cyborg;
   src: url('/public/cyborg.ttf');
 }
+@font-face {
+  font-family: retro;
+  src: url('/public/retro.ttf');
+}
 .font{
-  font-family: myFont;
+  font-family: retro;
 }
 .tooling,
 .text-tools{
-  font-family: cyborg;
+  font-family: retro;
 }
 /* -------------------------------- */
 
 body{
   font-family: 'Roboto', sans-serif;
-
   background-color: #000;
 
 }
 /* CUSTOM HERO SECTION */
 .hero-section{
-  background-image: url('./img/herobg.png');
-  width: 100%;
-  height: 94vh;
-  background-position: 100% 100%;
-  background-size: cover ;
-  background-repeat: no-repeat;
-  z-index: -1;
+
 
 }
 .services-hero{
